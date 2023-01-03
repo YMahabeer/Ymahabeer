@@ -10,7 +10,7 @@
   -	Simulated common tasks such as creating and disabling users, resetting passwords, and making group policy changes.
   - Simulated remotely logging into client machines using RDP and Remote Assistance to help with troubleshooting their system.
 
-* [TTICKETING SYSTEM - HOME LAB](https://github.com/YMahabeer/TICKETING-SYSTEM---HOME-LAB)
+* [TICKETING SYSTEM - HOME LAB](https://github.com/YMahabeer/TICKETING-SYSTEM---HOME-LAB)
   -	Configured Spiceworks helpdesk ticketing system.
   -	Practiced creating and responding to common tickets such as resetting passwords, troubleshooting internet connectivity, and providing remote assistance.
   -	Created knowledge base articles to improve documentation skills.
