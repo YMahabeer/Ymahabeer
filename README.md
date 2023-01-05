@@ -1,7 +1,7 @@
 # Hi, I'm Yadram, an [IT Professional](Linkedin) <!--Linkedin Link here -->
 
 ## 👨‍💻 IT Labs
-+ [ACTIVE DIRECTORY - HOME LAB - Part 1](https://github.com/YMahabeer/ACTIVE-DIRECTORY---HOME-LAB-PART-1) / [ACTIVE DIRECTORY - HOME LAB - Part 2](https://github.com/YMahabeer/Active-Directory-Home-Lab-PART-2) 
++ [ACTIVE DIRECTORY - HOME LAB - PART 1](https://github.com/YMahabeer/ACTIVE-DIRECTORY---HOME-LAB-PART-1) / [ACTIVE DIRECTORY - HOME LAB - PART 2](https://github.com/YMahabeer/Active-Directory-Home-Lab-PART-2) 
   - Used VirtualBox to create a virtual network consisting of one domain controller (Server 2019) and two client machines (Windows 10).
     - Configured NAT/RAS, and DHCP on the domain controller server to allow clients on the private internal network to access the internet securely.
     - Installed and configured Active Directory on the domain controller to manage users.
