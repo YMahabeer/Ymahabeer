@@ -20,7 +20,8 @@
   -	For each hop, I stepped through the most common methods of troubleshooting connectivity issues for that type of device on the network.
   -	Troubleshooted connectivity issues with client machines, domain controllers, DHCP servers, DNS servers, and routers.
 
-
+## Certifications 
+Comptia A+
 
 
 
