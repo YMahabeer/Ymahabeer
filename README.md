@@ -25,7 +25,7 @@
 
 
 ## 🤳 Connect With Me
-Linkedin: [](Linkedin)
+Linkedin: [www.linkedin.com/in/yadram-mahabeer](www.linkedin.com/in/yadram-mahabeer)
 
 <!--
 **YMahabeer/Ymahabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
