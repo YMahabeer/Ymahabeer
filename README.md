@@ -3,12 +3,12 @@
 ## 👨‍💻 IT Labs
 + [ACTIVE DIRECTORY - HOME LAB - PART 1](https://github.com/YMahabeer/ACTIVE-DIRECTORY---HOME-LAB-PART-1) / [ACTIVE DIRECTORY - HOME LAB - PART 2](https://github.com/YMahabeer/ACTIVE-DIRECTORY---HOME-LAB-PART-2) 
   - Used VirtualBox to create a virtual network consisting of one domain controller (Server 2019) and two client machines (Windows 10).
-    - Configured NAT/RAS, and DHCP on the domain controller server to allow clients on the private internal network to access the internet securely.
-    - Installed and configured Active Directory on the domain controller to manage users.
+  - Configured NAT/RAS, and DHCP on the domain controller server to allow clients on the private internal network to access the internet securely.
+  - Installed and configured Active Directory on the domain controller to manage users.
+  - Created PowerShell script to import 100 randomly generated users into active directory.
   -	Structured Organizational Units to reflect typical corporate structure.
   -	Configured common group policy tasks such as mapping network drives, pre-installing required software onto machines, and enforcing custom wallpaper for each department.
   -	Simulated common tasks such as creating and disabling users, resetting passwords, and making group policy changes.
-  - Simulated remotely logging into client machines using RDP and Remote Assistance to help with troubleshooting their system.
 
 * [TICKETING SYSTEM - HOME LAB](https://github.com/YMahabeer/TICKETING-SYSTEM---HOME-LAB)
   -	Configured Spiceworks helpdesk ticketing system.
@@ -16,9 +16,11 @@
   -	Created knowledge base articles to improve documentation skills.
 
 - [TROUBLESHOOTING INTERNET CONNECTIVITY - HOME LAB](https://github.com/YMahabeer/TROUBLESHOOTING-INTERNET-CONNECTIVITY---HOME-LAB)
-  -	Traced the path of a packet from a client machine all the way to a well know website.
-  -	For each hop, I stepped through the most common methods of troubleshooting connectivity issues for that type of device on the network.
-  -	Troubleshooted connectivity issues with client machines, domain controllers, DHCP servers, DNS servers, and routers.
+  -	Used the TRACERT command to trace the path of a packet from a client machine to a well-known website (google.com).
+  - Stepped through the most common methods of troubleshooting connectivity issues for each type of device on the network in-which the packet passed through.
+  - Troubleshooted connectivity issues with client machines, domain controllers, DHCP servers, DNS servers, and routers.
+  - Used commands such as IPCONFIG to gather information, PING to verify certain devices on the network can communicate with each other, and NSLOOKUP to query and verify the DNS server’s records.
+
 
 ## Certifications 
 Comptia A+
